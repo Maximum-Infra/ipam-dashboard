@@ -1,0 +1,5 @@
+start_address,end_address,status,mark_utilized,description,comments
+192.0.2.10/24,192.0.2.20/24,active,true,Core switches (example range),Quantity 2
+192.0.2.100/24,192.0.2.150/24,active,true,Camera devices (example range),
+198.51.100.1/24,198.51.100.1/24,active,true,Default gateway (example),Site B lab gateway
+198.51.100.200/24,198.51.100.254/24,active,false,DHCP lease pool (example),Managed externally
