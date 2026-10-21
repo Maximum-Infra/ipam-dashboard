@@ -1,0 +1,4 @@
+site_name,vlan_group,vid,name,role,status,description
+Site A,Site A VLANs,10,Management,Management,active,Management VLAN
+Site A,Site A VLANs,20,Production,Production,active,Production VLAN
+Site B,Site B VLANs,30,Lab,Lab,active,Lab VLAN
