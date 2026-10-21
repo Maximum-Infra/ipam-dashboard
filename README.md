@@ -28,7 +28,7 @@ technicians:
 The interface was designed to be colorful and "hi-tech" rather than a bare
 admin table — see the dashboard concept below.
 
-![IPAM dashboard concept](docs/dashboard-concept.png)
+![IPAM dashboard concept](docs/dashboard-concept.jpg)
 
 ## Architecture
 
