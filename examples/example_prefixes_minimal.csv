@@ -1,0 +1,5 @@
+prefix,status,description
+192.0.2.0/24,active,Site A production subnet (RFC 5737 TEST-NET-1 example range)
+198.51.100.0/24,active,Site B lab subnet (RFC 5737 TEST-NET-2 example range)
+203.0.113.0/29,active,Site A public/WAN example block (RFC 5737 TEST-NET-3 example range)
+10.0.0.0/8,container,Global private parent block (example)
